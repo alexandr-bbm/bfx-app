@@ -1,0 +1,1 @@
+export const getPrimaryBackground = ({theme}) => theme.background.primary;
